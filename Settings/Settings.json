@@ -1,0 +1,44 @@
+{
+    "BotSettings": {
+        "token": "Nzk1NTk3NzM3NzM0NTY5OTk0.X_LsIg.WdichXJSzgP7xVrdU0x_-GXP-fA",
+        "owner": "793893131825184790",
+        "prefix": ".",
+        "botStatus": "wio.db Deniyoruz ' Losint ♥ Arsen",
+        "botVoiceChannelID": "801516679774339082"
+    },
+    "Roles": {
+        "BoyRole1": "802631147217092660",
+        "BoyRole2": "802631148559400961",
+        "GirlRole1": "803347277187252295",
+        "GirlRole2": "803347274767138839",
+        "Unregister": "803347282581389333",
+        "Registerer": "",
+        "TagRole": "",
+        "Suspicious": "",
+        "Jail": ""
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerID": "800407345678647356",
+            "Tag": "々",
+            "UnTag": "•"
+        },
+        "Channels": {
+            "RegisterChat": "800779782581256202",
+            "TagLog": "",
+            "Rules": "",
+            "GeneralChat": "801527108195188736"
+        },
+        "Welcome": {
+            "WelcomeChat": "800779782581256202",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
